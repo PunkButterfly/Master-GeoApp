@@ -2,7 +2,7 @@
 
 # env
 # project name / docker compose name
-export PROJECT_NAME=service-cicd
+export PROJECT_NAME=master-geoapp
 
 # ports
 export BACKEND_PORT=8006
